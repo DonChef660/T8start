@@ -1,0 +1,6 @@
+################################################
+#### RTE BASICS                             ####
+################################################
+RTE.default {
+    contentCSS = typo3conf/ext/t8start/Resources/Public/Css/rte.css
+}

@@ -1,0 +1,7 @@
+###
+### PageTS for T8start
+###
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t8start/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t8start/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t8start/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t8start/Configuration/PageTS/mod/WebLayout/RTE/BackendLayouts.txt">
